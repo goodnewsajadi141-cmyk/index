@@ -1,4 +1,4 @@
-.headset{
+    .headset{
      color: blue;
      text-align: center;
      font-size: 70px;
@@ -12,15 +12,13 @@
  }
 
  #jjj{
-  background-color: gray;
-    background-image: url("/wallpaper\ web\ in\ wleb.jfif");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: color-mix(in srgb, blue 50%, black 50% );
+
 }
 
 
 #general{
      font-family: Arial, Helvetica, sans-serif;
     color: white;
+    font-size: 25px;
 }
